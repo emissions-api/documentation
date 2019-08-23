@@ -1,6 +1,10 @@
 Emissions API Documentation
 ===========================
 
+- [Sentinal 5P Data Products
+  ](https://sentinel.esa.int/web/sentinel/missions/sentinel-5p/data-products)
+- [Copernicus Open Access Hub
+  ](https://scihub.copernicus.eu/)
 - [Sentinal 5 Data Hub
   ](https://s5phub.copernicus.eu/dhus/#/home)
 - [Panoply netCDF, HDF and GRIB Data Viewer
