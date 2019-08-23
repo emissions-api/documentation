@@ -1,7 +1,7 @@
 Emissions API Documentation
 ===========================
 
-- [Sentinal 5 Data Gub
+- [Sentinal 5 Data Hub
   ](https://s5phub.copernicus.eu/dhus/#/home)
 - [Panoply netCDF, HDF and GRIB Data Viewer
   ](https://www.giss.nasa.gov/tools/panoply/)
