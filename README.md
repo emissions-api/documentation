@@ -14,3 +14,5 @@ Emissions API Documentation
   Chapter 6 describes tools
 - [NetCDF file format and tool descriptions
   ](Sentinel-5P-Level-2-Product-User-Manual)
+- [Search and download Copernicus Sentinel satellite images
+  ](https://github.com/sentinelsat/sentinelsat)
