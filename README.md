@@ -16,3 +16,5 @@ Emissions API Documentation
   ](Sentinel-5P-Level-2-Product-User-Manual)
 - [Search and download Copernicus Sentinel satellite images
   ](https://github.com/sentinelsat/sentinelsat)
+- [GDAL is a translator library for raster and vector geospatial data formats
+  ](https://gdal.org/)
