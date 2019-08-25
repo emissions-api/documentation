@@ -18,3 +18,7 @@ Emissions API Documentation
   ](https://github.com/sentinelsat/sentinelsat)
 - [GDAL is a translator library for raster and vector geospatial data formats
   ](https://gdal.org/)
+- [GeoJSON is a format for encoding a variety of geographic data structures.
+  ](https://geojson.org/)
+- [leafletjs: an open-source JavaScript library for mobile-friendly interactive maps (for rendering)
+  ](https://leafletjs.com/)
