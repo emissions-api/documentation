@@ -22,3 +22,4 @@ Emissions API Documentation
   ](https://geojson.org/)
 - [leafletjs: an open-source JavaScript library for mobile-friendly interactive maps (for rendering)
   ](https://leafletjs.com/)
+- [Sentinel-atmospheric Toolbox (BEAT): provides scientists with tools for ingesting, processing, and analyzing atmospheric remote sensing data](https://sentinel.esa.int/web/sentinel/toolboxes/sentinel-atmospheric)
