@@ -23,3 +23,5 @@ Emissions API Documentation
 - [leafletjs: an open-source JavaScript library for mobile-friendly interactive maps (for rendering)
   ](https://leafletjs.com/)
 - [Sentinel-atmospheric Toolbox (BEAT): provides scientists with tools for ingesting, processing, and analyzing atmospheric remote sensing data](https://sentinel.esa.int/web/sentinel/toolboxes/sentinel-atmospheric)
+- [PostGIS - spatial database extender for PostgreSQL object-relational database](https://postgis.net/)
+- [Mapbender - a content management system for geospatial data services and map applications](https://mapbender3.org/)
