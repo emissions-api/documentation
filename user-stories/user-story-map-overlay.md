@@ -17,7 +17,7 @@ Create Images merged from pollution data and selectable background.
 
 ### Data
 
--     provide images from the selected area
+- provide images from the selected area
 - requires positions
 
 ### Delivery
