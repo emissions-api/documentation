@@ -35,6 +35,7 @@ Monthly aggregated values in a fixed grid for an area.
 Good:
 
 - RESTful API
+- (GEO)JSON
 - format should be easy to process
 - delivery in real-time (<1s waiting)
 - define a polygon to get results
