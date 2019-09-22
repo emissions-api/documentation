@@ -10,3 +10,30 @@ These data should be easily plot-able with JavaScript.
 
 The data should generate single points aggregated over an area and time interval.
 Locations for data from multiple time intervals should be identical.
+
+Technical Requirements
+----------------------
+
+### Goal
+
+Plot the overall emission development of an area over time
+
+### Data
+
+-     provide aggregated data for an requested area over time
+- *or* provide single data points for an area over time
+- requires only sensor data
+
+### Delivery
+
+Good:
+
+- RESTful API
+- format should be easy to process
+- delivery in real-time (<1s waiting)
+
+Would still work:
+
+- RESTful API
+- format should be easy to process
+- delivery in reasonable time (≤5min waiting)
