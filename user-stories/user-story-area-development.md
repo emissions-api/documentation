@@ -23,6 +23,7 @@ Plot the overall emission development of an area over time
 -     provide aggregated data for an requested area over time
 - *or* provide single data points for an area over time
 - requires only sensor data
+- define a polygon to get results
 
 ### Delivery
 
@@ -31,6 +32,7 @@ Good:
 - RESTful API
 - format should be easy to process
 - delivery in real-time (<1s waiting)
+- define a rectangle
 
 Would still work:
 
