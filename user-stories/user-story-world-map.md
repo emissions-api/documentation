@@ -29,9 +29,11 @@ Good:
 - RESTful API
 - format should be easy to process
 - delivery in real-time (<1s waiting)
+- scalable grid
 
 Would still work:
 
 - RESTful API
 - format should be easy to process
 - delivery in reasonable time (≤5min waiting)
+- fixed grid
