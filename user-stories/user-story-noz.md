@@ -9,3 +9,33 @@ updated on a regular basis.
 
 To achieve this, it needs to be easy to request sensor data for a single
 location and a single substance over time.
+
+
+
+Technical Requirements
+----------------------
+
+### Goal
+
+Aggregated values for specific sub-areas of an area.
+
+### Data
+
+-     provide aggregated data for a set of areas, once
+- requires sensor data and positions
+
+### Delivery
+
+Good:
+
+- RESTful API
+- format should be easy to process
+- delivery in real-time (<1s waiting)
+- define a polygon to get results
+
+Would still work:
+
+- RESTful API
+- format should be easy to process
+- delivery in reasonable time (≤5min waiting)
+- define a rectangle
