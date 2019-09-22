@@ -17,7 +17,7 @@ Aggregated values for specific sub-areas of an area.
 
 ### Data
 
--     provide aggregated data for a set of areas, once
+- provide aggregated data for a set of areas, once
 - requires sensor data and positions
 
 ### Delivery
