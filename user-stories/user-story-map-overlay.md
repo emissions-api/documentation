@@ -13,12 +13,12 @@ Technical Requirements
 
 ### Goal
 
-Aggregated values for specific sub-areas of an area.
+Create Images merged from pollution data and selectable background.
 
 ### Data
 
--     provide aggregated data for a set of areas, once
-- requires sensor data and positions
+-     provide images from the selected area
+- requires positions
 
 ### Delivery
 
