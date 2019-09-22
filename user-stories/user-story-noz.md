@@ -17,12 +17,13 @@ Technical Requirements
 
 ### Goal
 
-Aggregated values for specific sub-areas of an area.
+Single aggregated value over specific time of a very small area.
 
 ### Data
 
--     provide aggregated data for a set of areas, once
+- provide an aggregated data point of a specific time of a very small area
 - requires sensor data and positions
+- input is only a single coordinate
 
 ### Delivery
 
@@ -31,11 +32,11 @@ Good:
 - RESTful API
 - format should be easy to process
 - delivery in real-time (<1s waiting)
-- define a polygon to get results
+- aggregated daily
 
 Would still work:
 
 - RESTful API
 - format should be easy to process
 - delivery in reasonable time (≤5min waiting)
-- define a rectangle
+- aggregated monthly
