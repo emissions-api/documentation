@@ -23,11 +23,11 @@ Technical Requirements
 
 ### Goal
 
-Aggregated values for specific sub-areas of an area.
+Monthly aggregated values in a fixed grid for an area.
 
 ### Data
 
--     provide aggregated data for a set of areas, once
+- provide monthly aggregated data for an area
 - requires sensor data and positions
 
 ### Delivery
