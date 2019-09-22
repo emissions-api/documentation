@@ -17,12 +17,12 @@ Technical Requirements
 
 ### Goal
 
-Single aggregated value over specific time of a very small area.
+Single aggregated value over specific time of a coordinate.
 
 ### Data
 
-- provide an aggregated data point of a specific time of a very small area
-- requires sensor data and positions
+- provide an aggregated data point of a specific time of a coordinate
+- requires sensor data
 - input is only a single coordinate
 
 ### Delivery
