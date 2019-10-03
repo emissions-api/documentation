@@ -16,8 +16,8 @@ The following sections contain a list of various ressources that might be useful
 
 - [Sentinal 5P Data Products
   ](https://sentinel.esa.int/web/sentinel/missions/sentinel-5p/data-products)
-- [Sentinel 5P Level 2 Product User Manual
-  ](http://www.tropomi.eu/sites/default/files/files/Sentinel-5P-Level-2-Product-User-Manual-Formaldehyde_v1.01.01_20180716.pdf)
+- [Sentinel 5P Level 2 Product User Manual Carbon Monoxide
+  ](http://www.tropomi.eu/sites/default/files/files/Sentinel-5P-Level-2-Product-User-Manual-Carbon-Monoxide_v1.00.02_20180613.pdf)
   Chapter 6 describes tools
 - [NetCDF file format and tool descriptions
   ](Sentinel-5P-Level-2-Product-User-Manual)
