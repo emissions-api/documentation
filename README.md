@@ -41,6 +41,7 @@ The following sections contain a list of various ressources that might be useful
   ](https://postgis.net/)
 - [Mapbender - a content management system for geospatial data services and map applications
   ](https://mapbender3.org/)
+- [netCDF4](https://unidata.github.io/netcdf4-python/netCDF4/index.html), a python library to parse `.nc` data files
 
 ### Articles
 - [3rd party article about data journalism based on Sentinel-5P data
