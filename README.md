@@ -1,5 +1,13 @@
-Emissions API Documentation
-===========================
+Emissions API: Project Notes
+============================
+
+---
+
+This repository contains random notes about the overall project.
+It is meant as a *place to keep stuff* for the project members and for general planning.
+It is **no** documentation for any of the developed tools or services.
+
+---
 
 ## Resources
 
